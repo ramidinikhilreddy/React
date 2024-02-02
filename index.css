@@ -16,9 +16,10 @@
 }
 
 .res-card{
-    padding: 5px;
-    height: 300px;
-    width: 200px;
+    padding: 10px;
+    height: 390px;
+    width: 240px;
+    margin: 5px;
 }
 
 .res-card:hover{
@@ -28,6 +29,7 @@
 
 .resto-container{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .search{
