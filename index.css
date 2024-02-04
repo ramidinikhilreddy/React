@@ -40,3 +40,12 @@
     width: 100%;
 }
 
+.filter_button{
+    padding: 3px;
+    margin: 10px;
+}
+
+.filter_button:hover{
+    cursor: pointer;
+}
+
