@@ -16,10 +16,12 @@
 }
 
 .res-card{
+    
     padding: 10px;
     height: 390px;
     width: 240px;
     margin: 12px;
+    color: black;
 }
 
 .res-card:hover{
@@ -62,13 +64,15 @@
 }
 
 .login{
-    padding: 10px;
+    padding: 5px;
+    margin: 10px;
     }
 
 .filter{
     display: flex;
 }
 
-.filter > .filter_button{
-    text-align: right;
+.avgRating{
+    color: rgb(8, 87, 8);
+    text-decoration-style: solid;
 }
