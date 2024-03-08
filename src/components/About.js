@@ -1,7 +1,9 @@
+import User from "./User";
+
 const About = () =>{
     return(
         <div>
-            <h2>Hey i am Nikhil</h2>
+            <User/>
             <p>I am here to learn Namaste React Series..</p>
         </div>
     );

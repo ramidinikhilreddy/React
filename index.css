@@ -76,3 +76,14 @@
     color: rgb(8, 87, 8);
     text-decoration-style: solid;
 }
+
+.count{
+    padding: 3px;
+    
+}
+
+.gitimage{
+    width: 100px;
+    border: 50%;
+    padding-top: 10px;
+}
